@@ -7,5 +7,3 @@ RUN zypper in -y gawk git gzip lua-lmod mercurial python subversion tar
 # Stuff for building
 RUN zypper in -y automake cmake gcc gcc-c++ make 
 
-# setup dotfiles
-RUN "cd dotfiles; bash ds.bash"
