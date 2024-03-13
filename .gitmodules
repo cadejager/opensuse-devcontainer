@@ -1,3 +1,1 @@
-[submodule "dotfiles"]
-	path = dotfiles
-	url = ssh://git@git.hpc.lanl.gov:10122/dejager/dotfiles.git
+
